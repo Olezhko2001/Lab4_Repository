@@ -4,7 +4,6 @@
 using namespace std;
 
 void getAllInfoAboutBike(Bike bike);
-void getBikeDiam(Bike bike);
 
 int main()
 {
