@@ -8,9 +8,11 @@ private:
 	int mass;
 	int maxMassOfPassenger;
 	string manufacturer;
+
 protected:
 	int numberOfWheels;
 	int heightOfSeat;
+
 public:
 	double diameterOfWheel;
 	string owner;
